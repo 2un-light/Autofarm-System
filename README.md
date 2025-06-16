@@ -3,12 +3,12 @@
 
 <img src="https://user-images.githubusercontent.com/82020828/223026742-170a2b3c-818a-4f50-8703-2e647f6abf3b.png" width="250" alt="전체 사진">
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://user-images.githubusercontent.com/82020828/223025471-a7febf62-de60-4f4a-87c1-7c9dd93af3a7.png" width="450" alt="스크린샷 1">
-  <img src="https://user-images.githubusercontent.com/82020828/223025491-23732bda-7198-4c0a-819c-08e0cb8e99f4.png" width="450" alt="스크린샷 2">
+  <img src="https://user-images.githubusercontent.com/82020828/223025471-a7febf62-de60-4f4a-87c1-7c9dd93af3a7.png" width="400" alt="스크린샷 1">
+  <img src="https://user-images.githubusercontent.com/82020828/223025491-23732bda-7198-4c0a-819c-08e0cb8e99f4.png" width="400" alt="스크린샷 2">
 </div>
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://user-images.githubusercontent.com/82020828/223025506-1e766f66-5005-4a6d-b1f1-0b62f5dec90a.png" width="450" alt="스크린샷 3">
-  <img src="https://user-images.githubusercontent.com/82020828/223025524-0c3c578c-74eb-4940-a8c6-244abb9ea5f3.png" width="450" alt="스크린샷 4">
+  <img src="https://user-images.githubusercontent.com/82020828/223025506-1e766f66-5005-4a6d-b1f1-0b62f5dec90a.png" width="400" alt="스크린샷 3">
+  <img src="https://user-images.githubusercontent.com/82020828/223025524-0c3c578c-74eb-4940-a8c6-244abb9ea5f3.png" width="400" alt="스크린샷 4">
 </div>
 
 <br><br>
@@ -34,13 +34,13 @@
 
 ## 📸 Preview
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://user-images.githubusercontent.com/82020828/223026337-06da055c-057d-4003-a932-f0c207904369.png" width="450" alt="결과화면 1">
-  <img src="https://user-images.githubusercontent.com/82020828/223026360-c88ab2c0-d44b-49c2-86c1-9ea4445510af.png" width="450" alt="결과화면 2">
+  <img src="https://user-images.githubusercontent.com/82020828/223026337-06da055c-057d-4003-a932-f0c207904369.png" width="400" alt="결과화면 1">
+  <img src="https://user-images.githubusercontent.com/82020828/223026360-c88ab2c0-d44b-49c2-86c1-9ea4445510af.png" width="400" alt="결과화면 2">
 </div>
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://user-images.githubusercontent.com/82020828/223026400-ad5efcbe-9adb-4148-a04b-7e48fce495a4.png" width="450" alt="결과화면 3">
-  <img src="https://user-images.githubusercontent.com/82020828/223026421-42e7f09a-3540-4224-a0fc-3797fc690cdc.png" width="450" alt="결과화면 4">
-  <img src="https://user-images.githubusercontent.com/82020828/223026434-e6726583-d088-4004-b733-69d94d37bf4b.png" width="450" alt="결과화면 5">
+  <img src="https://user-images.githubusercontent.com/82020828/223026400-ad5efcbe-9adb-4148-a04b-7e48fce495a4.png" width="400" alt="결과화면 3">
+  <img src="https://user-images.githubusercontent.com/82020828/223026421-42e7f09a-3540-4224-a0fc-3797fc690cdc.png" width="400" alt="결과화면 4">
+  <img src="https://user-images.githubusercontent.com/82020828/223026434-e6726583-d088-4004-b733-69d94d37bf4b.png" width="400" alt="결과화면 5">
 </div>
 
 <br><br>
