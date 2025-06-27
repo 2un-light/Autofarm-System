@@ -1,5 +1,5 @@
 ## 🌳 Autofarm-System
-물고기 양어 기술과 채소 수경재배 기술을 융합한 환경 친화적인 기술은 아쿠아포닉스 농법을 아두이노 시스템으로 모니터링, 제어하는 시스템
+물고기 양어 기술과 채소 수경재배 기술을 융합한 환경 친화적인 기술인 아쿠아포닉스 농법을 아두이노로 모니터링, 제어하는 시스템
 
 <img src="https://user-images.githubusercontent.com/82020828/223026742-170a2b3c-818a-4f50-8703-2e647f6abf3b.png" width="250" alt="전체 사진">
 <div style="display: flex; justify-content: space-around; align-items: center;">
@@ -26,6 +26,7 @@
 ### Hardware & Embedded
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MIT App Inventor](https://img.shields.io/badge/MIT_App_Inventor-2ECC71?style=for-the-badge&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-00B2B2?style=for-the-badge&logo=internet-of-things&logoColor=white)
 ![Sensors](https://img.shields.io/badge/Sensors-F8A229?style=for-the-badge&logoColor=white)
 ![Motors](https://img.shields.io/badge/Motors-4A90E2?style=for-the-badge&logoColor=white)
